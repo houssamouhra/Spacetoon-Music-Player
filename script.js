@@ -23,7 +23,7 @@ const songs = [
     artist: "spacetoon",
   },
   {
-    name: "friends",
+    name: "friendz",
     displayName: "عهد الأصدقاء",
     artist: "spacetoon",
   },
